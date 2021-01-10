@@ -7,5 +7,6 @@ namespace MyCms.Models
 {
     public class test
     {
+        public int ID { get; set; }
     }
 }
